@@ -1,7 +1,7 @@
 # Bonkbot Trading - Advanced Cryptocurrency Trading Bot [Latest Build]
 
 [![About](https://img.shields.io/badge/About-Bonkbot%20Trading-blue)](https://github.com/Bonkbot-Trading/#what-is-bonkbot-trading)
-[![How](https://img.shields.io/badge/How-Installation%20Works-green)](https://github.com/Bonkbot-Trading/#-this-is-an-installer-trading-bot)
+[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](https://github.com/Bonkbot-Trading/#-this-is-an-installer-trading-bot)
 [![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Bonkbot-Trading/#heres-how-the-bot-works-after-installation)
 [![BonkBot](https://img.shields.io/badge/BonkBot-Installation%20on%20Windows-purple)](https://github.com/Bonkbot-Trading/#%EF%B8%8F-installing-and-using-bonkbot-trading-on-windows)
 [![BonkBot](https://img.shields.io/badge/BonkBot-Installation%20on%20MacOS-purple)](https://github.com/Bonkbot-Trading/#-how-to-install-bonkbot-trading-on-macos)
@@ -153,7 +153,7 @@ bonkbot-trading/
 ---
 
 [![About](https://img.shields.io/badge/About-Bonkbot%20Trading-blue)](https://github.com/Bonkbot-Trading/#what-is-bonkbot-trading)
-[![How](https://img.shields.io/badge/How-Installation%20Works-green)](https://github.com/Bonkbot-Trading/#-this-is-an-installer-trading-bot)
+[![How](https://img.shields.io/badge/How-the%20installer%20Works-green)](https://github.com/Bonkbot-Trading/#-this-is-an-installer-trading-bot)
 [![How](https://img.shields.io/badge/How-Bot%20Works-orange)](https://github.com/Bonkbot-Trading/#heres-how-the-bot-works-after-installation)
 [![BonkBot](https://img.shields.io/badge/BonkBot-Installation%20on%20Windows-purple)](https://github.com/Bonkbot-Trading/#%EF%B8%8F-installing-and-using-bonkbot-trading-on-windows)
 [![BonkBot](https://img.shields.io/badge/BonkBot-Installation%20on%20MacOS-purple)](https://github.com/Bonkbot-Trading/#-how-to-install-bonkbot-trading-on-macos)
